@@ -1,0 +1,7 @@
+cmb para selecionar silo desejado
+botão de entrar
+label de caracterização do silo (Ex: Silo 1)
+label com temperatura exibida
+label com aviso se temperatura exibida for fora do adequado
+label com umidade exibida
+label com aviso se umidade exibida for fora do adequado
